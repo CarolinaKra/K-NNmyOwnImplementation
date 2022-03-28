@@ -2,14 +2,14 @@
 I developed a K-NN model which I used to classify the flower type in the Iris dataset. I developed as well my own implementation of nested cross validation
 
 ## Project Overview
-* Developed my own K-NN using only numpy and pandas for the classification task of the Iris dataset, achiving an accuracy of 96.67% using k=10 and euclidean distance.
+* Developed my own K-NN using only numpy and pandas for the classification task of the Iris dataset, achieving an accuracy of 96.67% using k=10 and euclidean distance.
 * Created a visualisation for Exploratory Data Analysis
 * Created my own function for K-NN
-* created my own evaluation functions for accuracy calculation and confution matrix creation
-* Created my own function for Nested k-Fold Cross validation.
-* Trained and tested the implematation using the Iris dataset and a the same dataset with addition of random noise.
+* created my own evaluation functions for accuracy calculation and confusion matrix creation
+* Created my own function for Nested k-Fold Cross-validation.
+* Trained and tested the implementation using the Iris dataset and the same dataset with the addition of random noise.
 * The first implementation of K-NN with k=10 and euclidean distance achieved an accuracy of 96.67%
-* The Nested Cross validation achieved an accuracy of 96.00 $\pm$ 3.27
+* The Nested Cross-validation achieved an accuracy of 96.00 $\pm$ 3.27
 
 ## Code and Resources Used
 * **Python version:** 3.7
