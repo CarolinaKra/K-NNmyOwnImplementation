@@ -9,7 +9,7 @@ I developed a K-NN model which I used to classify the flower type in the Iris da
 * Created my own function for Nested k-Fold Cross-validation.
 * Trained and tested the implementation using the Iris dataset and the same dataset with the addition of random noise.
 * The first implementation of K-NN with k=10 and euclidean distance achieved an accuracy of 96.67%
-* The Nested Cross-validation achieved an accuracy of 96.00 $\pm$ 3.27
+* The Nested Cross-validation achieved an accuracy of 96.00 ± 3.27%
 
 ## Code and Resources Used
 * **Python version:** 3.7
