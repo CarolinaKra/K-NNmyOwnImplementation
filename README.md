@@ -18,7 +18,7 @@ I developed a K-NN model which I used to classify the flower type in the Iris da
 ## Exploratory Data Analysis
 I created the following graph, similar to the seaborn pair plot
 
-[](https://github.com/CarolinaKra/K-NNmyOwnImplementation/blob/main/Images/EDA.png)
+![](https://github.com/CarolinaKra/K-NNmyOwnImplementation/blob/main/Images/EDA.png)
 
 ## Created my own function for K-NN
 * I created functions to calculate different distances which will be the users options: 'euclidean' and 'manhatan'
@@ -29,7 +29,7 @@ I created the following graph, similar to the seaborn pair plot
 
 The confusion matrix looked as follows:
 
-[](https://github.com/CarolinaKra/K-NNmyOwnImplementation/blob/main/Images/ConfMatrix.png)
+![](https://github.com/CarolinaKra/K-NNmyOwnImplementation/blob/main/Images/ConfMatrix.png)
 
 ## Created my own function for Nested k-fold validation
 * I created two helper functions:
@@ -39,5 +39,5 @@ The confusion matrix looked as follows:
 
 A summary of the results were as follows:
 
-[](https://github.com/CarolinaKra/K-NNmyOwnImplementation/blob/main/Images/kfoldresults.png)
+![](https://github.com/CarolinaKra/K-NNmyOwnImplementation/blob/main/Images/kfoldresults.png)
 
